@@ -1,0 +1,176 @@
+﻿h1{
+text-align:center;
+    width: 1327px;
+}
+body
+{
+background-color:#1E90FF;
+}
+.div4
+
+{position:absolute;
+background-color:#4682B4;
+top:345px;
+left:160px;
+width:265px;
+height:400px;
+border:4px soild blue;
+
+}
+.div3
+
+{position:absolute;
+background-color:#4682B4;
+top:345px;
+left:435px;
+width:278px;
+height:400px;
+border:4px soild blue;
+
+}
+.div1
+
+{position:absolute;
+background-color:#4682B4;
+top:345px;
+left:720px;
+width:270px;
+height:400px;
+border:4px soild blue;
+
+}
+
+
+.div2
+{
+position:fixed;
+bottom:0;
+right:0;
+left:0;
+width:1283px;
+background-color:navy;
+border:3px solid navy;
+}
+.div5
+{
+position:fixed;
+top:0;
+right:0;
+left:0px;
+width:1283px;
+background-color:navy;
+border:2px solid navy;
+}
+div.background {
+    background: url(1.png) repeat;
+    border: 2px solid black;
+    position:absolute;
+    top:80px;
+    left:158px;
+    right:300px;
+
+}
+p.ex2
+{font: italic bold 12px/30px Georgia, serif;
+text-align:center;}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+.div8
+
+{
+position:absolute;
+top:745px;
+height:318px;
+left:300px;
+width:530px;
+background-color:#4169E1;
+
+}
+
+.absolute1
+{position:absolute;
+background-color:#4169E1;
+top:84px;
+left:0;
+width:156px;
+height:1000px;
+border:4px #4682B4;
+
+}
+.div6 {
+    width: 300px;
+    height: 100px;
+    
+    background: white;
+    top:230px;
+    position: relative;
+    border:2px solid black;
+    -webkit-animation: mymove 20s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 20s infinite;
+}
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:link, a:visited {
+    display: block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #4169E1;
+    width: 146px;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #0000CD;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {left: 150px;}
+    to {left: 661px;}
+}
+
+@keyframes mymove {
+    from {left: 150px;}
+    to {left: 661px;}
+}
+
+.absolute2
+{position:absolute;
+background-color:#4169E1;
+top:84px;
+right:0;
+width:300px;
+height:1000px;
+
+
+}
+.container-1{
+margin:50px;
+
+  width: 232px;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+    top: 0px;
+    left: 0px;
+}
+
